@@ -74,6 +74,7 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 
 
 ### 6. ERD Toko Kelontong Mila
+
    
 
 
