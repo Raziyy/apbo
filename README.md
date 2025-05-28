@@ -69,7 +69,7 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 | qty        | integer  |
 | id_admin        | integer  |
 
-### 5. Class Diagram Toko Kelontong Mila
+### 5. Class Diagram Toko Kelontong Mila 
 ![Class Diagram - Toko Kelontong Mila](https://github.com/user-attachments/assets/16d5e144-239d-4cd8-89b3-6f5efa185770)
 
 
@@ -81,10 +81,10 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 
 
 ### 7. Desain Antarmuka / UI Toko Kelontong Mila
-   **A. WIREFRAME**
+   **:snowflake: WIREFRAME :snowflake:** 
 ![Image](https://github.com/user-attachments/assets/d90f76e3-c099-4885-a971-b3b6d6bdbe63)
 
-   **B. MOCKUP**
+   **:snowflake: B. MOCKUP :snowflake:**
 ![Image](https://github.com/user-attachments/assets/9161d15d-738d-4d30-8374-56b9f07b4876)
 
 
