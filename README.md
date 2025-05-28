@@ -74,6 +74,8 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 
 
 ### 6. ERD Toko Kelontong Mila
+![WhatsApp Image 2025-05-29 at 00 25 49](https://github.com/user-attachments/assets/f5f2f75f-7ee4-4db4-aedd-53d4a9b20556)
+
 
    
 
