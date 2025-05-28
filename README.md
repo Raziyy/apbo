@@ -1,2 +1,0 @@
-# apbo
-Untuk matakuliah APBO
