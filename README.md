@@ -79,7 +79,7 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 
 ### 7. Desain Antarmuka / UI Toko Kelontong Mila
    **A. WIREFRAME**
-
+![Image](https://github.com/user-attachments/assets/d90f76e3-c099-4885-a971-b3b6d6bdbe63)
 
    **B. MOCKUP**
 
