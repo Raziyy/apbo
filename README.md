@@ -56,6 +56,8 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 | qty        | integer  |
 | tanggal_pembellian      | date  |
 | total_harga      | integer  |
+| id_admin        | integer  |
+
 
    **:gift: Stock :gift:**
 | Attribut                | Tipe data   |
@@ -65,16 +67,21 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 | nama_barang       | varchar  |
 | stockmasuk      | date  |
 | qty        | integer  |
+| id_admin        | integer  |
 
-### 5. Class Diagram
+### 5. Class Diagram Toko Kelontong Mila
+![Class Diagram - Toko Kelontong Mila](https://github.com/user-attachments/assets/16d5e144-239d-4cd8-89b3-6f5efa185770)
+
+
+### 6. ERD Toko Kelontong Mila
    
 
 
-### 6. Desain Antarmuka
+### 7. Desain Antarmuka / UI Toko Kelontong Mila
    **A. WIREFRAME**
 
 
    **B. MOCKUP**
 
 
-### 7. Laporan
+
