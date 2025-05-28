@@ -82,6 +82,6 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
 ![Image](https://github.com/user-attachments/assets/d90f76e3-c099-4885-a971-b3b6d6bdbe63)
 
    **B. MOCKUP**
-
+![Image](https://github.com/user-attachments/assets/9161d15d-738d-4d30-8374-56b9f07b4876)
 
 
