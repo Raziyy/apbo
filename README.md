@@ -30,16 +30,41 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
    ![Untitled](https://github.com/user-attachments/assets/fe73780a-5d6a-4f69-a6da-84fbda814806)
   
 ### 3. Entitas Utama
-   **Barang**
+   **:gift: Admin :gift:**
+| Attribut                | Tipe data   |
+|-------------------------|-------------|
+| id_admin        | integer  |
+| username        | varchar  |
+| password         | varchar  |
 
 
-   **Admin**
-
+   **:gift: Barang :gift:**
+| Attribut                | Tipe data   |
+|-------------------------|-------------|
+| id_barang           | integer  |
+| nama_barang       | varchar  |
+| harga      | integer  |
+| stok      | integer  |
 
 ### 4. Relasi
 
-   **Transaksi**
+   **:gift: Pembelian :gift:**
+| Attribut                | Tipe data   |
+|-------------------------|-------------|
+| id_pembelian              | integer  |
+| id_barang        | integer  |
+| qty        | integer  |
+| tanggal_pembellian      | date  |
+| total_harga      | integer  |
 
+   **:gift: Stock :gift:**
+| Attribut                | Tipe data   |
+|-------------------------|-------------|
+| id_stock           | integer  |
+| id_barang        | integer  |
+| nama_barang       | varchar  |
+| stockmasuk      | date  |
+| qty        | integer  |
 
 ### 5. Class Diagram
    
