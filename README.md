@@ -19,7 +19,7 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 ### 1. Aktor dari Toko Kelontong Mila
 **:guardsman: Admin :guardsman:**
 
-Admin atau pemilik toko memiliki peran utama dalam mengelola seluruh operasional aplikasi warung kelontong. Tugas utamanya adalah mengelola data barang yang dijual, mulai dari menambahkan barang baru, mengedit informasi barang seperti nama, harga, dan satuan, hingga menghapus barang yang sudah tidak tersedia. Selain itu, admin bertanggung jawab untuk menambahkan stok barang secara berkala agar ketersediaan barang tetap terjaga. Dalam hal transaksi, admin mencatat setiap pembelian yang dilakukan oleh pembeli, menghitung total harga, serta menyimpan detail barang yang dibeli dalam sistem. Admin juga dapat melihat seluruh riwayat transaksi untuk keperluan evaluasi dan pengelolaan usaha.
+Admin atau pemilik toko memiliki peran utama dalam mengelola seluruh operasional aplikasi warung kelontong. Tugas utamanya adalah mengelola data barang yang dijual, mulai dari menambahkan barang baru, mengedit informasi barang seperti nama, harga, dan satuan, hingga menghapus barang yang sudah tidak tersedia. Selain itu, admin bertanggung jawab untuk menambahkan stok barang secara berkala agar ketersediaan barang tetap terjaga. Dalam hal transaksi, admin mencatat setiap pembelian yang dilakukan oleh pembeli, menghitung total harga, serta menyimpan detail barang yang dibeli dalam sistem. Admin juga dapat melihat seluruh riwayat transaksi untuk keperluan evaluasi dan pengelololaan usaha.
 
 **:credit_card: Pelanggan :credit_card:**
 
