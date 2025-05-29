@@ -88,4 +88,7 @@ Pembeli hanya bisa melihat barang yang ia beli saat transaksi (pembelian dilakuk
    **:snowflake: MOCKUP :snowflake:**
 ![Image](https://github.com/user-attachments/assets/9161d15d-738d-4d30-8374-56b9f07b4876)
 
+### 8. Dokumen Fakta Integritas
+![image](https://github.com/user-attachments/assets/8e1479f5-deae-41c9-b316-f4f905be1de1)
+
 
